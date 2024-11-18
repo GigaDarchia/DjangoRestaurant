@@ -12,10 +12,11 @@ A Django REST Framework project for managing restaurant menus, allowing restaura
 ## Authentication
 ### Super user
 - `Username` : Giga
-- `Password` : Pass123!
+- `Password` : pass123!
 ### Test account
 - `Username` : Giga1
-- `Password` : Pass123!
+- `Password` : pass123!
+
 ## Models
 - **Restaurant**: Basic restaurant information
 - **MenuMainCategory**: Top-level menu categories
