@@ -41,7 +41,6 @@ INSTALLED_APPS = [
     'user',
     'menu',
     'debug_toolbar',
-    'mptt',
     'rest_framework',
 ]
 
